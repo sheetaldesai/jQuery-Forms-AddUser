@@ -1,0 +1,32 @@
+#container {
+    width: 970px;
+    height: 800px;
+    margin: auto;
+    font-family: Verdana,sans-serif;
+    padding: 20px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 15px;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 400px;
+    border-bottom: 1px solid black;
+}
+
+label {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    text-align: left;
+}
+
+input[type="submit"]{
+    width: 125px;
+    height: 50px;
+}
